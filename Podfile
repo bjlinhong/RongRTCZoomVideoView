@@ -4,6 +4,6 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 target 'RongRTCZoomVideoView' do
 	
-  pod 'RongRTCLib', '5.1.0'
+  pod 'RongCloudRTC', '5.1.5'
 	pod 'Masonry'
 end
